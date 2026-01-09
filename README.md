@@ -41,7 +41,7 @@
 
 | **Project Name** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| 👶🏻 **Baby-Tracker** | เว็ปแอปบันทึกดูแลเด็ก (React Native) | `React Native` `Hono` `Cloudflare D1` |
+| 👶🏻 **Baby-Tracker** | เว็ป/แอปบันทึกการดูแลเด็กทารก (React Native) | `React Native` `Hono` `Cloudflare D1` |
 
 <br/>
 
