@@ -2,7 +2,7 @@
   <h2>Hi there, I'm Nut! 👋</h2>
   <p>
     <b>Software Engineering Student</b> | <b>Fullstack Developer</b><br/>
-    <i>"Crafting code with React, Hono.js"</i>
+    <i>"Crafting code with React, Hono.js on M2 Pro"</i>
   </p>
   
   <a href="mailto:your-email@gmail.com">
@@ -15,7 +15,7 @@
 
 <br/>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ About Me</h3>
