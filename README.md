@@ -2,7 +2,7 @@
   <h2>Hi there, I'm Nut! 👋</h2>
   <p>
     <b>Software Engineering Student</b> | <b>Fullstack Developer</b><br/>
-    <i>"Crafting code with React, Hono.js on M2 Pro"</i>
+    <i>"Crafting code with React, Hono.js"</i>
   </p>
   
   <a href="mailto:your-email@gmail.com">
@@ -41,7 +41,7 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nut-Natthawut&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nut-Natthawut&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nut-Natthawut&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="langs"/>
 </div>
