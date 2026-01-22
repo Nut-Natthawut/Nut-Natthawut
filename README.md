@@ -46,9 +46,13 @@
 <br/>
 
 <h3 align="center">📊 GitHub Activity</h3>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nut-Natthawut&theme=radical&hide_border=true&background=0d1117" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nut-Natthawut&theme=radical&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak stats" height="150" />
 </div>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nut-Natthawut&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nut-Natthawut&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true&custom_title=Contributions%20Graph" width="100%" alt="activity graph" />
 </div>
