@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Current Focus: Modern Web & AI Integration</h3>
+  <h3>🚀 Current Focus: Fullstack Web Development & Cloud-Native Apps</h3>
   
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
@@ -20,17 +20,22 @@
     <td width="50%" valign="top">
       <h3>⚡ About Me</h3>
       <ul>
-        <li>🔭 Working on: <b>Fullstack Web</b></li>
-        <li>🌱 Learning: <b>AI & System Design</b></li>
-        <li>🚀 Stacks: <b>React, Hono.js, Docker</b></li>
+        <li>🔭 Working on: <b>Fullstack Web Applications</b></li>
+        <li>🌱 Learning: <b>Cloud-Native & Edge Computing</b></li>
+        <li>🚀 Stacks: <b>React, Next.js, Hono, Cloudflare Workers</b></li>
         <li>💻 Gear: <b>MacBook Pro (M2 Pro)</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🛠 Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap&perline=6" />
+      <p><b>Frontend</b></p>
+      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind&perline=5" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,bun,mysql,postgres,supabase,docker,git,vscode,vercel,postman&perline=6" />
+      <p><b>Backend & Database</b></p>
+      <img src="https://skillicons.dev/icons?i=nodejs,cloudflare,supabase,postgres,prisma&perline=5" />
+      <br/><br/>
+      <p><b>Tools & DevOps</b></p>
+      <img src="https://skillicons.dev/icons?i=docker,git,vscode,vercel,postman&perline=5" />
     </td>
   </tr>
 </table>
@@ -39,9 +44,11 @@
 
 <h3>🏆 Featured Projects</h3>
 
-| **Project Name** | **Description** | **Tech Stack** |
+| **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| 👶🏻 **Baby-Tracker** | เว็ป/แอปบันทึกการดูแลเด็กทารก (React Native) | `React Native` `Hono` `Cloudflare D1` |
+| 👶🏻 [**Baby Tracker**](https://github.com/Nut-Natthawut/baby-tracker) | แอปบันทึกการดูแลเด็กทารก — นม, ผ้าอ้อม, การนอน พร้อม Dashboard สรุปสถิติ | `React 18` `Vite` `Tailwind` `shadcn/ui` `Hono` `Cloudflare D1` `Drizzle ORM` |
+| 🥐 [**Mini Bakery POS**](https://github.com/Nut-Natthawut/Mini_bakery_POS) | ระบบ POS สำหรับร้านเบเกอรี่ — จัดการเมนู, ออเดอร์, ใบเสร็จอัตโนมัติ | `Next.js 14` `Tailwind` `ShadCN` `Prisma` `PostgreSQL (Supabase)` `JWT Auth` |
+| 🏥 [**Pre-Operative Checklist**](https://github.com/Nut-Natthawut/Pre_operative_Checklist) | ระบบ Checklist ก่อนผ่าตัดสำหรับโรงพยาบาล — แทนแบบฟอร์มกระดาษ | `React 19` `Vite 7` `Tailwind v4` `React Router v7` `Hono` `Cloudflare D1` `Drizzle ORM` |
 
 <br/>
 
