@@ -11,38 +11,36 @@
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
+  <a href="https://gitlab.com/your-profile">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="30"/>
+  </a>
 </div>
 
 <br/>
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ About Me</h3>
-      <ul>
-        <li>🔭 Working on: <b>Fullstack Web Applications</b></li>
-        <li>🌱 Learning: <b>Cloud-Native & Edge Computing</b></li>
-        <li>🚀 Stacks: <b>React, Next.js, Hono, Cloudflare Workers</b></li>
-        <li>💻 Gear: <b>MacBook Pro (M2 Pro)</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠 Tech Stack</h3>
-      <p><b>Frontend</b></p>
-      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind&perline=5" />
-      <br/><br/>
-      <p><b>Backend & Database</b></p>
-      <img src="https://skillicons.dev/icons?i=nodejs,cloudflare,supabase,postgres,prisma&perline=5" />
-      <br/><br/>
-      <p><b>Tools & DevOps</b></p>
-      <img src="https://skillicons.dev/icons?i=docker,git,vscode,vercel,postman&perline=5" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### ⚡ About Me
+
+🔭 Working on: **Fullstack Web Applications** · 🌱 Learning: **Cloud-Native & Edge Computing** ·  Gear: **MacBook Pro (M2 Pro)**
+
+</div>
 
 <br/>
 
-<h3>🏆 Featured Projects</h3>
+<div align="center">
+
+### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,cloudflare,supabase,postgres,prisma&perline=10" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,gitlab,vscode,vercel,postman&perline=6" />
+
+</div>
+
+<br/>
+
+### 🏆 Featured Projects
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
