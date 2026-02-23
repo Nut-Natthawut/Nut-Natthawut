@@ -5,7 +5,7 @@
 <div align="center">
   <h3>🚀 Current Focus: Fullstack Web Development & Cloud-Native Apps</h3>
   
-  <a href="mailto:[natthawutkaensao@gmail.com]">
+  <a href="mailto:natthawutkaensao@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
   <a href="https://linkedin.com/in/natthawut-kaensao">
@@ -15,30 +15,29 @@
 
 <br/>
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ About Me</h3>
-      <ul>
-        <li>🔭 Working on: <b>Fullstack Web Applications</b></li>
-        <li>🌱 Learning: <b>Cloud-Native & Edge Computing</b></li>
-        <li>🚀 Stacks: <b>React, Next.js, Hono, Cloudflare Workers</b></li>
-        <li>💻 Gear: <b>MacBook Pro (M2 Pro)</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠 Tech Stack</h3>
-      <p><b>Frontend</b></p>
-      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind&perline=5" />
-      <br/><br/>
-      <p><b>Backend & Database</b></p>
-      <img src="https://skillicons.dev/icons?i=nodejs,cloudflare,supabase,postgres,prisma&perline=5" />
-      <br/><br/>
-      <p><b>Tools & DevOps</b></p>
-      <img src="https://skillicons.dev/icons?i=docker,git,vscode,vercel,postman&perline=5" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>⚡ About Me</h3>
+  <p>
+    🔭 Working on: <b>Fullstack Web Applications</b><br/>
+    🌱 Learning: <b>Cloud-Native & Edge Computing</b><br/>
+    🚀 Stacks: <b>React, Next.js, Hono, Cloudflare Workers</b><br/>
+    💻 Gear: <b>MacBook Pro (M2 Pro)</b>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🛠 Tech Stack</h3>
+  <p><b>Frontend</b></p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind&perline=5" />
+  <br/><br/>
+  <p><b>Backend & Database</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,cloudflare,supabase,postgres,prisma&perline=5" />
+  <br/><br/>
+  <p><b>Tools & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,vscode,vercel,postman&perline=6" />
+</div>
 
 <br/>
 
