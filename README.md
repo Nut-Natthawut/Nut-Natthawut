@@ -5,10 +5,10 @@
 <div align="center">
   <h3>🚀 Current Focus: Fullstack Web Development & Cloud-Native Apps</h3>
   
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:[natthawutkaensao@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/natthawut-kaensao">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
 </div>
