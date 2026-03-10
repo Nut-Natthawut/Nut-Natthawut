@@ -1,176 +1,182 @@
 <div align="center">
-
-<!-- Custom animated header with gradient -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
-
-<!-- Animated name reveal -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&height=60&lines=%E2%9C%A6+Natthawut+Kaensao+%E2%9C%A6">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=302b63&center=true&vCenter=true&random=false&width=600&height=60&lines=%E2%9C%A6+Natthawut+Kaensao+%E2%9C%A6">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&height=60&lines=%E2%9C%A6+Natthawut+Kaensao+%E2%9C%A6" alt="Name" />
-</picture>
-
-<br/>
-
-<!-- Subtitle typing effect with multiple lines -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&multiline=true&random=false&width=550&height=80&lines=Software+Engineer+%7C+Fullstack+Developer;Building+at+the+edge+%E2%80%94+one+deploy+at+a+time+%E2%9A%A1" alt="Subtitle" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Natthawut%20Kaensao&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 
 <div align="center">
 
-<a href="mailto:natthawutkaensao@gmail.com"><img src="https://img.shields.io/badge/natthawutkaensao-ea4335?style=flat-square&logo=gmail&logoColor=white" height="23"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&random=false&width=450&lines=Fullstack+Developer;Cloud-Native+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natthawutkaensao@gmail.com)
 &nbsp;
-<a href="https://linkedin.com/in/natthawut-kaensao"><img src="https://img.shields.io/badge/natthawut--kaensao-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="23"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natthawut-kaensao)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ TERMINAL ABOUT ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<table align="center"><tr><td>
+<h2 align="center">About</h2>
 
-```js
-// about.config.js
-
-const nut = {
-  pronouns: "he/him",
-  role: "Software Engineering Student",
-  base: "Thailand 🇹🇭",
-
-  code: ["TypeScript", "JavaScript", "SQL"],
-  
-  technologies: {
-    frontend:  ["React", "Next.js", "Vite", "Tailwind CSS"],
-    backend:   ["Node.js", "Hono", "Cloudflare Workers"],
-    database:  ["PostgreSQL", "Cloudflare D1", "Supabase"],
-    orm:       ["Prisma", "Drizzle ORM"],
-    devOps:    ["Docker", "Vercel", "Git"],
-  },
-
-  currentFocus: "Edge Computing & Cloud-Native Apps",
-  funFact: "I debug with console.log and I'm not ashamed 🤷‍♂️",
-};
-```
-
-</td></tr></table>
-
-<br/>
-
-<!-- ═══════════════════════════ SKILLS ═══════════════════════════ -->
-
-<details open>
-<summary><h2>⚡ Weapons of Choice</h2></summary>
-
-<br/>
+<p align="center">
+Software Engineering student from Thailand 🇹🇭<br/>
+Passionate about building fullstack web apps with modern tools<br/>
+Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
+</p>
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=ts" width="40"/> <br/> TypeScript | <img src="https://skillicons.dev/icons?i=react" width="40"/> <br/> React | <img src="https://skillicons.dev/icons?i=nextjs" width="40"/> <br/> Next.js |
-| <img src="https://skillicons.dev/icons?i=vite" width="40"/> <br/> Vite | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> <br/> Tailwind | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> <br/> Node.js |
-| <img src="https://skillicons.dev/icons?i=cloudflare" width="40"/> <br/> Cloudflare | <img src="https://skillicons.dev/icons?i=supabase" width="40"/> <br/> Supabase | <img src="https://skillicons.dev/icons?i=postgres" width="40"/> <br/> PostgreSQL |
-| <img src="https://skillicons.dev/icons?i=prisma" width="40"/> <br/> Prisma | <img src="https://skillicons.dev/icons?i=docker" width="40"/> <br/> Docker | <img src="https://skillicons.dev/icons?i=git" width="40"/> <br/> Git |
-| <img src="https://skillicons.dev/icons?i=vercel" width="40"/> <br/> Vercel | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> <br/> VS Code | <img src="https://skillicons.dev/icons?i=postman" width="40"/> <br/> Postman |
+<img src="https://img.shields.io/badge/Focus-Fullstack%20Development-A78BFA?style=flat-square&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/Learning-Cloud--Native%20%26%20Edge-818CF8?style=flat-square&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/Setup-MacBook%20Pro%20M2%20Pro-6C63FF?style=flat-square&labelColor=1a1a2e" />
 
 </div>
 
 <br/>
 
-</details>
+---
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<details open>
-<summary><h2>🏗️ What I've Built</h2></summary>
+<h2 align="center">Tech Stack</h2>
 
 <br/>
 
 <div align="center">
 
-<!-- PROJECT 1 -->
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind&perline=5" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,cloudflare,supabase,postgres,prisma&perline=5" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,git,gitlab,vscode,vercel,postman&perline=6" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<h2 align="center">Projects</h2>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🍼 Baby Tracker
+
+Track baby care — feeding, diapers, sleep<br/>with daily stats dashboard
+
+<br/>
+
 <a href="https://github.com/Nut-Natthawut/baby-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nut-Natthawut&repo=baby-tracker&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=818CF8&text_color=c9d1d9" width="400"/>
+<img src="https://img.shields.io/badge/→_View_Project-A78BFA?style=for-the-badge&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
-<!-- PROJECT 2 -->
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
+
+### 🧁 Mini Bakery POS
+
+POS for bakery shops — menu, orders<br/>& auto receipt generation
+
+<br/>
+
 <a href="https://github.com/Nut-Natthawut/Mini_bakery_POS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nut-Natthawut&repo=Mini_bakery_POS&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=818CF8&text_color=c9d1d9" width="400"/>
+<img src="https://img.shields.io/badge/→_View_Project-A78BFA?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- PROJECT 3 -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🏥 Pre-Operative Checklist
+
+Hospital pre-surgery checklist — replaces<br/>paper forms with real-time tracking
+
+<br/>
+
 <a href="https://github.com/Nut-Natthawut/Pre_operative_Checklist">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nut-Natthawut&repo=Pre_operative_Checklist&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=818CF8&text_color=c9d1d9" width="400"/>
+<img src="https://img.shields.io/badge/→_View_Project-A78BFA?style=for-the-badge&logoColor=white"/>
 </a>
-
-</div>
-
-<br/>
-
-</details>
-
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-
-<details open>
-<summary><h2>📈 The Numbers Game</h2></summary>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nut-Natthawut&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=818CF8&text_color=c9d1d9&ring_color=A78BFA&count_private=true&include_all_commits=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nut-Natthawut&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nut-Natthawut&hide_border=true&background=0d1117&stroke=302b63&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=818CF8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&date_format=j%20M%5B%20Y%5D" width="500"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nut-Natthawut&bg_color=0d1117&color=A78BFA&line=818CF8&point=c9d1d9&area=true&hide_border=true&custom_title=✦%20Contribution%20Timeline" width="95%"/>
-</div>
-
-<br/>
-
-</details>
-
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Nut-Natthawut&style=flat-square&color=302b63&label=profile+visitors" height="20"/>
 
 <br/><br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "First, solve the problem. Then, write the code."          ║
-║                                          — John Johnson      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
+
+<br/><br/>
+
+*More projects coming soon...*
+
+<br/><br/><br/>
+
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+---
 
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<h2 align="center">Activity</h2>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nut-Natthawut&hide_border=true&background=0d1117&stroke=302b6322&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=818CF8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&date_format=j%20M%5B%20Y%5D" width="480"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nut-Natthawut&bg_color=0d1117&color=A78BFA&line=818CF8&point=ffffff&area=true&hide_border=true&custom_title=" width="95%"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nut-Natthawut&style=flat-square&color=302b63&label=visitors" height="20"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 </div>
