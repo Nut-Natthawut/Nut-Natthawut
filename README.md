@@ -17,23 +17,23 @@
 <br/>
 
 <div align="center">
-```
-Current Focus — Fullstack Web Development & Cloud-Native Applications
-```
-
+  <img src="https://img.shields.io/badge/Current%20Focus-Fullstack%20Web%20Development%20%26%20Cloud--Native%20Applications-5bcdec?style=flat-square&labelColor=0d1117" />
 </div>
+
+<br/>
 
 ---
 
 ### About
 
-Software Engineering student focused on building production-grade fullstack applications.  
-Currently exploring **Cloud-Native** architecture and **Edge Computing** with Cloudflare Workers.
+Software Engineering student focused on building production-grade fullstack applications. Currently exploring **Cloud-Native** architecture and **Edge Computing** with Cloudflare Workers.
 
-- Working on: Fullstack Web Applications
-- Learning: Cloud-Native & Edge Computing
-- Stack: React · Next.js · Hono · Cloudflare Workers
-- Machine: MacBook Pro (M2 Pro)
+| | |
+|:--|:--|
+| Working on | Fullstack Web Applications |
+| Learning | Cloud-Native & Edge Computing |
+| Stack | React · Next.js · Hono · Cloudflare Workers |
+| Machine | MacBook Pro (M2 Pro) |
 
 ---
 
@@ -43,9 +43,13 @@ Currently exploring **Cloud-Native** architecture and **Edge Computing** with Cl
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind&perline=5" />
 
+<br/>
+
 **Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,cloudflare,supabase,postgres,prisma&perline=5" />
+
+<br/>
 
 **Tools & DevOps**
 
@@ -66,13 +70,13 @@ Currently exploring **Cloud-Native** architecture and **Edge Computing** with Cl
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nut-Natthawut&theme=radical&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nut-Natthawut&theme=radical&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&mode=weekly" height="150" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nut-Natthawut&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nut-Natthawut&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
 <div align="center">
