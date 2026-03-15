@@ -21,7 +21,7 @@
 <h2 align="center">About</h2>
 
 <p align="center">
-Software Engineering student from Thailand 🇹🇭<br/>
+Software Engineering student from Thailand <br/>
 Passionate about building fullstack web apps with modern tools<br/>
 Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 </p>
@@ -48,13 +48,19 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 
 <div align="center">
 
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind&perline=5" />
 
 <br/><br/>
 
+**Backend & Database**
+
 <img src="https://skillicons.dev/icons?i=nodejs,cloudflare,supabase,postgres,prisma&perline=5" />
 
 <br/><br/>
+
+**Tools & DevOps**
 
 <img src="https://skillicons.dev/icons?i=docker,git,gitlab,vscode,vercel,postman&perline=6" />
 
