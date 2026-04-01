@@ -163,24 +163,13 @@ This space is reserved for upcoming builds.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nut-Natthawut&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=818CF8&text_color=c9d1d9&ring_color=A78BFA" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nut-Natthawut&hide_border=true&background=0d1117&stroke=302b6322&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=818CF8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&date_format=j%20M%5B%20Y%5D" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nut-Natthawut&hide_border=true&background=0d1117&stroke=302b6322&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=818CF8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&date_format=j%20M%5B%20Y%5D" width="72%"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nut-Natthawut&bg_color=0d1117&color=A78BFA&line=818CF8&point=ffffff&area=true&hide_border=true&custom_title=" width="95%"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Nut-Natthawut&style=flat-square&color=302b63&label=visitors" height="20"/>
-
 </div>
 
 <br/>
