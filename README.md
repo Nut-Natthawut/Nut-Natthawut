@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-[<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/communication/mail/materialiconsoutlined/24px.svg" width="18" height="18" alt="Email icon" /> Email](mailto:natthawutkaensao@gmail.com)
+[<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/content/mail/materialicons/24px.svg" width="18" height="18" alt="Email" /> Email](mailto:natthawutkaensao@gmail.com)
 &nbsp;
-[<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/social/person/materialiconsoutlined/24px.svg" width="18" height="18" alt="LinkedIn icon" /> LinkedIn](https://linkedin.com/in/natthawut-kaensao)
+[<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/social/person/materialicons/24px.svg" width="18" height="18" alt="LinkedIn" /> LinkedIn](https://linkedin.com/in/natthawut-kaensao)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/account_circle/materialiconsoutlined/24px.svg" width="20" height="20" alt="About icon" /> About</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/account_circle/materialicons/24px.svg" width="20" height="20" alt="About" /> About</h2>
 
 <p align="center">
 Software Engineering student from Thailand <br/>
@@ -28,9 +28,9 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/track_changes/materialiconsoutlined/24px.svg" width="18" height="18" alt="Focus icon" /> <strong>Focus:</strong> Fullstack Development
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/image/center_focus_strong/materialicons/24px.svg" width="18" height="18" alt="Focus" /> <strong>Focus:</strong> Fullstack Development
 &nbsp;
-<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/social/school/materialiconsoutlined/24px.svg" width="18" height="18" alt="Learning icon" /> <strong>Learning:</strong> Cloud-Native &amp; Edge
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/social/school/materialicons/24px.svg" width="18" height="18" alt="Learning" /> <strong>Learning:</strong> Cloud-Native &amp; Edge
 &nbsp;
 <img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/editor/code/materialicons/24px.svg" width="20" height="20" alt="Code icon" />
 
@@ -42,7 +42,7 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/hardware/memory/materialiconsoutlined/24px.svg" width="20" height="20" alt="Tech stack icon" /> Tech Stack</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/hardware/memory/materialicons/24px.svg" width="20" height="20" alt="Tech Stack" /> Tech Stack</h2>
 
 <br/>
 
@@ -72,7 +72,7 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/file/folder/materialiconsoutlined/24px.svg" width="20" height="20" alt="Projects icon" /> Projects</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/file/folder/materialicons/24px.svg" width="20" height="20" alt="Projects" /> Projects</h2>
 
 <br/>
 
@@ -88,7 +88,7 @@ Track baby care — feeding, diapers, sleep<br/>with daily stats dashboard
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/baby-tracker">
-<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/open_in_new/materialiconsoutlined/24px.svg" width="18" height="18" alt="View project icon" /> View Project
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/open_in_new/materialicons/24px.svg" width="18" height="18" alt="View Project" /> View Project
 </a>
 
 <br/><br/>
@@ -107,7 +107,7 @@ POS for bakery shops — menu, orders<br/>& auto receipt generation
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/Mini_bakery_POS">
-<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/open_in_new/materialiconsoutlined/24px.svg" width="18" height="18" alt="View project icon" /> View Project
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/open_in_new/materialicons/24px.svg" width="18" height="18" alt="View Project" /> View Project
 </a>
 
 <br/><br/>
@@ -128,7 +128,7 @@ Hospital pre-surgery checklist — replaces<br/>paper forms with real-time track
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/Pre_operative_Checklist">
-<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/open_in_new/materialiconsoutlined/24px.svg" width="18" height="18" alt="View project icon" /> View Project
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/open_in_new/materialicons/24px.svg" width="18" height="18" alt="View Project" /> View Project
 </a>
 
 <br/><br/>
@@ -157,7 +157,7 @@ Hospital pre-surgery checklist — replaces<br/>paper forms with real-time track
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/timeline/materialiconsoutlined/24px.svg" width="20" height="20" alt="Activity icon" /> Activity</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/timeline/materialicons/24px.svg" width="20" height="20" alt="Activity" /> Activity</h2>
 
 <br/>
 
@@ -177,7 +177,7 @@ Hospital pre-surgery checklist — replaces<br/>paper forms with real-time track
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/social/visibility/materialiconsoutlined/24px.svg" width="18" height="18" alt="Visitors icon" /> <strong>Visitors</strong>
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/visibility/materialicons/24px.svg" width="18" height="18" alt="Visitors" /> <strong>Visitors</strong>
 
 </div>
 
