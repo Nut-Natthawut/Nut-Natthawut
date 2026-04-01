@@ -6,11 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&random=false&width=450&lines=Fullstack+Developer;Cloud-Native+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
+<br/>
 
-[Email](mailto:natthawutkaensao@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1f1f2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=302b63)](mailto:natthawutkaensao@gmail.com)
 &nbsp;
-[LinkedIn](https://linkedin.com/in/natthawut-kaensao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f1f2e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=302b63)](https://linkedin.com/in/natthawut-kaensao)
 
 </div>
 
@@ -21,16 +22,16 @@
 <h2 align="center">About</h2>
 
 <p align="center">
-Software Engineering student from Thailand <br/>
-Passionate about building fullstack web apps with modern tools<br/>
-Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
+Software Engineering student from Thailand building thoughtful fullstack products.<br/>
+I enjoy turning ideas into clean, practical web experiences with modern tools.<br/>
+Right now, I'm exploring <strong>Edge Computing</strong> with Cloudflare Workers.
 </p>
 
 <div align="center">
 
-<strong>Focus:</strong> Fullstack Development
+[![Focus](https://img.shields.io/badge/Focus-Fullstack%20Development-A78BFA?style=flat-square&labelColor=1a1a2e)](#)
 &nbsp;
-<strong>Learning:</strong> Cloud-Native &amp; Edge
+[![Learning](https://img.shields.io/badge/Learning-Cloud--Native%20%26%20Edge-818CF8?style=flat-square&labelColor=1a1a2e)](#)
 
 </div>
 
@@ -79,14 +80,14 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 <tr>
 <td align="center" width="50%">
 
-###  Baby Tracker
+### Baby Tracker
 
 Track baby care — feeding, diapers, sleep<br/>with daily stats dashboard
 
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/baby-tracker">
-View Project
+<img src="https://img.shields.io/badge/View%20Project-A78BFA?style=for-the-badge&labelColor=302b63" alt="View Project"/>
 </a>
 
 <br/><br/>
@@ -98,14 +99,14 @@ View Project
 </td>
 <td align="center" width="50%">
 
-###  Mini Bakery POS
+### Mini Bakery POS
 
 POS for bakery shops — menu, orders<br/>& auto receipt generation
 
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/Mini_bakery_POS">
-View Project
+<img src="https://img.shields.io/badge/View%20Project-A78BFA?style=for-the-badge&labelColor=302b63" alt="View Project"/>
 </a>
 
 <br/><br/>
@@ -119,14 +120,14 @@ View Project
 <tr>
 <td align="center" width="50%">
 
-###  Pre-Operative Checklist
+### Pre-Operative Checklist
 
 Hospital pre-surgery checklist — replaces<br/>paper forms with real-time tracking
 
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/Pre_operative_Checklist">
-View Project
+<img src="https://img.shields.io/badge/View%20Project-A78BFA?style=for-the-badge&labelColor=302b63" alt="View Project"/>
 </a>
 
 <br/><br/>
@@ -138,11 +139,13 @@ View Project
 </td>
 <td align="center" width="50%">
 
-<br/><br/>
+### Next Up
 
-*More projects coming soon...*
+More projects are on the way.<br/>
+This space is reserved for upcoming builds.
 
-<br/><br/><br/>
+<br/>
+<img src="https://img.shields.io/badge/Work%20In%20Progress-302b63?style=for-the-badge&labelColor=1a1a2e" alt="Work in Progress"/>
 
 </td>
 </tr>
@@ -160,7 +163,8 @@ View Project
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nut-Natthawut&hide_border=true&background=0d1117&stroke=302b6322&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=818CF8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&date_format=j%20M%5B%20Y%5D" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nut-Natthawut&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=818CF8&text_color=c9d1d9&ring_color=A78BFA" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nut-Natthawut&hide_border=true&background=0d1117&stroke=302b6322&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=818CF8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&date_format=j%20M%5B%20Y%5D" width="48%"/>
 </div>
 
 <br/>
