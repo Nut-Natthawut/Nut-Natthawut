@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natthawutkaensao@gmail.com)
+[<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/communication/mail/materialiconsoutlined/24px.svg" width="18" height="18" alt="Email icon" /> Email](mailto:natthawutkaensao@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natthawut-kaensao)
+[<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/social/person/materialiconsoutlined/24px.svg" width="18" height="18" alt="LinkedIn icon" /> LinkedIn](https://linkedin.com/in/natthawut-kaensao)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center">About</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/account_circle/materialiconsoutlined/24px.svg" width="20" height="20" alt="About icon" /> About</h2>
 
 <p align="center">
 Software Engineering student from Thailand <br/>
@@ -28,11 +28,11 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Fullstack%20Development-A78BFA?style=flat-square&labelColor=1a1a2e" />
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/track_changes/materialiconsoutlined/24px.svg" width="18" height="18" alt="Focus icon" /> <strong>Focus:</strong> Fullstack Development
 &nbsp;
-<img src="https://img.shields.io/badge/Learning-Cloud--Native%20%26%20Edge-818CF8?style=flat-square&labelColor=1a1a2e" />
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/social/school/materialiconsoutlined/24px.svg" width="18" height="18" alt="Learning icon" /> <strong>Learning:</strong> Cloud-Native &amp; Edge
 &nbsp;
-<img src="https://img.shields.io/badge/Setup-MacBook%20Pro%20M2%20Pro-6C63FF?style=flat-square&labelColor=1a1a2e" />
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/editor/code/materialicons/24px.svg" width="20" height="20" alt="Code icon" />
 
 </div>
 
@@ -42,7 +42,7 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/hardware/memory/materialiconsoutlined/24px.svg" width="20" height="20" alt="Tech stack icon" /> Tech Stack</h2>
 
 <br/>
 
@@ -72,7 +72,7 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center">Projects</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/file/folder/materialiconsoutlined/24px.svg" width="20" height="20" alt="Projects icon" /> Projects</h2>
 
 <br/>
 
@@ -81,14 +81,14 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 <tr>
 <td align="center" width="50%">
 
-### 🍼 Baby Tracker
+###  Baby Tracker
 
 Track baby care — feeding, diapers, sleep<br/>with daily stats dashboard
 
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/baby-tracker">
-<img src="https://img.shields.io/badge/→_View_Project-A78BFA?style=for-the-badge&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/open_in_new/materialiconsoutlined/24px.svg" width="18" height="18" alt="View project icon" /> View Project
 </a>
 
 <br/><br/>
@@ -100,14 +100,14 @@ Track baby care — feeding, diapers, sleep<br/>with daily stats dashboard
 </td>
 <td align="center" width="50%">
 
-### 🧁 Mini Bakery POS
+###  Mini Bakery POS
 
 POS for bakery shops — menu, orders<br/>& auto receipt generation
 
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/Mini_bakery_POS">
-<img src="https://img.shields.io/badge/→_View_Project-A78BFA?style=for-the-badge&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/open_in_new/materialiconsoutlined/24px.svg" width="18" height="18" alt="View project icon" /> View Project
 </a>
 
 <br/><br/>
@@ -121,14 +121,14 @@ POS for bakery shops — menu, orders<br/>& auto receipt generation
 <tr>
 <td align="center" width="50%">
 
-### 🏥 Pre-Operative Checklist
+###  Pre-Operative Checklist
 
 Hospital pre-surgery checklist — replaces<br/>paper forms with real-time tracking
 
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/Pre_operative_Checklist">
-<img src="https://img.shields.io/badge/→_View_Project-A78BFA?style=for-the-badge&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/open_in_new/materialiconsoutlined/24px.svg" width="18" height="18" alt="View project icon" /> View Project
 </a>
 
 <br/><br/>
@@ -157,7 +157,7 @@ Hospital pre-surgery checklist — replaces<br/>paper forms with real-time track
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center">Activity</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/timeline/materialiconsoutlined/24px.svg" width="20" height="20" alt="Activity icon" /> Activity</h2>
 
 <br/>
 
@@ -177,7 +177,7 @@ Hospital pre-surgery checklist — replaces<br/>paper forms with real-time track
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Nut-Natthawut&style=flat-square&color=302b63&label=visitors" height="20"/>
+<img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/social/visibility/materialiconsoutlined/24px.svg" width="18" height="18" alt="Visitors icon" /> <strong>Visitors</strong>
 
 </div>
 
