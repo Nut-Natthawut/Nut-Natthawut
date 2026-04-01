@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-[<img src="./assets/icons/mail.svg" width="18" height="18" alt="Email" /> Email](mailto:natthawutkaensao@gmail.com)
+[Email](mailto:natthawutkaensao@gmail.com)
 &nbsp;
-[<img src="./assets/icons/person.svg" width="18" height="18" alt="LinkedIn" /> LinkedIn](https://linkedin.com/in/natthawut-kaensao)
+[LinkedIn](https://linkedin.com/in/natthawut-kaensao)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center"><img src="./assets/icons/account_circle.svg" width="20" height="20" alt="About" /> About</h2>
+<h2 align="center">About</h2>
 
 <p align="center">
 Software Engineering student from Thailand <br/>
@@ -28,9 +28,9 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 
 <div align="center">
 
-<img src="./assets/icons/center_focus_strong.svg" width="18" height="18" alt="Focus" /> <strong>Focus:</strong> Fullstack Development
+<strong>Focus:</strong> Fullstack Development
 &nbsp;
-<img src="./assets/icons/school.svg" width="18" height="18" alt="Learning" /> <strong>Learning:</strong> Cloud-Native &amp; Edge
+<strong>Learning:</strong> Cloud-Native &amp; Edge
 
 </div>
 
@@ -40,7 +40,7 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center"><img src="./assets/icons/memory.svg" width="20" height="20" alt="Tech Stack" /> Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <br/>
 
@@ -70,7 +70,7 @@ Currently exploring <strong>Edge Computing</strong> with Cloudflare Workers
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center"><img src="./assets/icons/folder.svg" width="20" height="20" alt="Projects" /> Projects</h2>
+<h2 align="center">Projects</h2>
 
 <br/>
 
@@ -86,7 +86,7 @@ Track baby care — feeding, diapers, sleep<br/>with daily stats dashboard
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/baby-tracker">
-<img src="./assets/icons/open_in_new.svg" width="18" height="18" alt="View Project" /> View Project
+View Project
 </a>
 
 <br/><br/>
@@ -105,7 +105,7 @@ POS for bakery shops — menu, orders<br/>& auto receipt generation
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/Mini_bakery_POS">
-<img src="./assets/icons/open_in_new.svg" width="18" height="18" alt="View Project" /> View Project
+View Project
 </a>
 
 <br/><br/>
@@ -126,7 +126,7 @@ Hospital pre-surgery checklist — replaces<br/>paper forms with real-time track
 <br/>
 
 <a href="https://github.com/Nut-Natthawut/Pre_operative_Checklist">
-<img src="./assets/icons/open_in_new.svg" width="18" height="18" alt="View Project" /> View Project
+View Project
 </a>
 
 <br/><br/>
@@ -155,7 +155,7 @@ Hospital pre-surgery checklist — replaces<br/>paper forms with real-time track
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center"><img src="./assets/icons/timeline.svg" width="20" height="20" alt="Activity" /> Activity</h2>
+<h2 align="center">Activity</h2>
 
 <br/>
 
@@ -175,7 +175,7 @@ Hospital pre-surgery checklist — replaces<br/>paper forms with real-time track
 
 <div align="center">
 
-<img src="./assets/icons/visibility.svg" width="18" height="18" alt="Visitors" /> <strong>Visitors</strong>
+<img src="https://komarev.com/ghpvc/?username=Nut-Natthawut&style=flat-square&color=302b63&label=visitors" height="20"/>
 
 </div>
 
