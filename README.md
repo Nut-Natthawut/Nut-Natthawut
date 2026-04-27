@@ -22,9 +22,9 @@
 <h2 align="center">About</h2>
 
 <p align="center">
-Software Engineering student from Thailand building thoughtful fullstack products.<br/>
-I enjoy turning ideas into clean, practical web experiences with modern tools.<br/>
-Right now, I'm exploring <strong>Edge Computing</strong> with Cloudflare Workers.
+I'm a third-year Software Engineering student at the University of Phayao, focused on full-stack web development.<br/>
+I enjoy building practical products with clean frontend experience, solid backend logic, and real deployment flow.<br/>
+Currently, I'm exploring serverless architecture and modern web application development.
 </p>
 
 <div align="center">
@@ -111,8 +111,8 @@ Modern bakery POS system — products, orders,<br/>inventory flow, and day-to-da
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
 
 </td>
@@ -135,17 +135,6 @@ Track baby care — feeding, diapers, sleep<br/>with daily stats dashboard
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-
-</td>
-<td align="center" width="50%">
-
-### Next Up
-
-More projects are on the way.<br/>
-This space is reserved for upcoming builds.
-
-<br/>
-<img src="https://img.shields.io/badge/Work%20In%20Progress-302b63?style=for-the-badge&labelColor=1a1a2e" alt="Work in Progress"/>
 
 </td>
 </tr>
