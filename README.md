@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&random=false&width=450&lines=Fullstack+Developer;Cloud-Native+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&random=false&width=520&lines=Third-Year+Software+Engineering+Student;Full-Stack+Web+Developer;Exploring+Serverless+Architecture" alt="Typing SVG" />
 
 <br/>
 <br/>
