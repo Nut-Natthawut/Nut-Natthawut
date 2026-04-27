@@ -80,13 +80,13 @@ Right now, I'm exploring <strong>Edge Computing</strong> with Cloudflare Workers
 <tr>
 <td align="center" width="50%">
 
-### Baby Tracker
+### Pre-Operative Checklist
 
-Track baby care — feeding, diapers, sleep<br/>with daily stats dashboard
+Hospital pre-surgery checklist — replaces<br/>paper forms with real-time tracking
 
 <br/>
 
-<a href="https://github.com/Nut-Natthawut/baby-tracker">
+<a href="https://github.com/Nut-Natthawut/Pre_operative_Checklist">
 <img src="https://img.shields.io/badge/View%20Project-A78BFA?style=for-the-badge&labelColor=302b63" alt="View Project"/>
 </a>
 
@@ -99,13 +99,13 @@ Track baby care — feeding, diapers, sleep<br/>with daily stats dashboard
 </td>
 <td align="center" width="50%">
 
-### Mini Bakery POS
+### POS-Bakery
 
-POS for bakery shops — menu, orders<br/>& auto receipt generation
+Modern bakery POS system — products, orders,<br/>inventory flow, and day-to-day shop operations
 
 <br/>
 
-<a href="https://github.com/Nut-Natthawut/Mini_bakery_POS">
+<a href="https://github.com/Nut-Natthawut/POS-Bakery">
 <img src="https://img.shields.io/badge/View%20Project-A78BFA?style=for-the-badge&labelColor=302b63" alt="View Project"/>
 </a>
 
@@ -120,13 +120,13 @@ POS for bakery shops — menu, orders<br/>& auto receipt generation
 <tr>
 <td align="center" width="50%">
 
-### Pre-Operative Checklist
+### Baby Tracker
 
-Hospital pre-surgery checklist — replaces<br/>paper forms with real-time tracking
+Track baby care — feeding, diapers, sleep<br/>with daily stats dashboard
 
 <br/>
 
-<a href="https://github.com/Nut-Natthawut/Pre_operative_Checklist">
+<a href="https://github.com/Nut-Natthawut/baby-tracker">
 <img src="https://img.shields.io/badge/View%20Project-A78BFA?style=for-the-badge&labelColor=302b63" alt="View Project"/>
 </a>
 
