@@ -24,7 +24,7 @@
 <p align="center">
 I'm a third-year Software Engineering student at the University of Phayao, focused on full-stack web development.<br/>
 I enjoy building practical products with clean frontend experience, solid backend logic, and real deployment flow.<br/>
-I build across both server-based and serverless web applications, with a growing interest in modern backend architecture.
+I build across both server-based and serverless web applications, with a growing interest in deployment tradeoffs, edge computing, and modern backend architecture.
 </p>
 
 <div align="center">
