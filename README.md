@@ -24,14 +24,14 @@
 <p align="center">
 I'm a third-year Software Engineering student at the University of Phayao, focused on full-stack web development.<br/>
 I enjoy building practical products with clean frontend experience, solid backend logic, and real deployment flow.<br/>
-Currently, I'm exploring serverless architecture and modern web application development.
+I build across both server-based and serverless web applications, with a growing interest in modern backend architecture.
 </p>
 
 <div align="center">
 
 [![Focus](https://img.shields.io/badge/Focus-Fullstack%20Development-A78BFA?style=flat-square&labelColor=1a1a2e)](#)
 &nbsp;
-[![Learning](https://img.shields.io/badge/Learning-Cloud--Native%20%26%20Edge-818CF8?style=flat-square&labelColor=1a1a2e)](#)
+[![Learning](https://img.shields.io/badge/Learning-Server%20%26%20Serverless-818CF8?style=flat-square&labelColor=1a1a2e)](#)
 
 </div>
 
