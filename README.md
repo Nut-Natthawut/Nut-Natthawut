@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&random=false&width=520&lines=Third-Year+Software+Engineering+Student;Full-Stack+Web+Developer;Exploring+Serverless+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&random=false&width=560&lines=Third-Year+Software+Engineering+Student;Full-Stack+Web+Developer;Server-Based+%26+Serverless+Web+Apps" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -24,7 +24,7 @@
 <p align="center">
 I'm a third-year Software Engineering student at the University of Phayao, focused on full-stack web development.<br/>
 I enjoy building practical products with clean frontend experience, solid backend logic, and real deployment flow.<br/>
-I build across both server-based and serverless web applications, with a growing interest in deployment tradeoffs, edge computing, and modern backend architecture.
+I build across both server-based and serverless web applications, with an interest in modern web architecture, tradeoffs, and continuous learning.
 </p>
 
 <div align="center">
